@@ -1,0 +1,30 @@
+/* Full Page Carousel itself*/
+
+.carousel {
+    height: 80%;
+}
+
+.carousel .carousel-inner {
+    height: 80%;
+}
+
+.carousel .carousel-inner .carousel-item,
+.carousel .carousel-inner .active {
+    height: 80%;
+}
+
+
+/* section Carousel itself*/
+
+.carousel2 {
+    height: 50%;
+}
+
+.carousel2 .carousel2-inner {
+    height: 50%;
+}
+
+.carousel2 .carousel2-inner .carousel2-item,
+.carousel2 .carousel2-inner .active {
+    height: 50%;
+}

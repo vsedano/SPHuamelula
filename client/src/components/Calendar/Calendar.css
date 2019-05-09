@@ -1,0 +1,19 @@
+.day {
+    background-color: midnightblue;
+    border-radius: 5px;
+    line-height: 1;
+    text-align: center;
+    padding: 5px;
+}
+
+.event {
+    height: 90%;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 5px;
+    background: url('../../img/fondoEvent.jpg')
+}
+
+.calendar {
+    padding: 5px;
+}

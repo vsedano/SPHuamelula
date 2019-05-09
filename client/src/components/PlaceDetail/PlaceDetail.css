@@ -1,0 +1,20 @@
+.place {
+    padding: 100px 25px 40px;
+}
+
+.headerPlace {
+    font-style: italic;
+    font-family: serif;
+    color: darkblue;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.desc {
+    white-space: pre-line;
+    font-size: 17px;
+    color: darkcyan;
+    font-family: none;
+    font-style: italic;
+    padding: 35px;
+}

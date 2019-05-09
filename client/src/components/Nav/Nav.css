@@ -1,0 +1,56 @@
+html,
+body,
+header,
+.carousel {
+    height: 100%;
+}
+
+
+/* Navbar animation */
+
+.navbar {
+    background-color: #20B2AA;
+}
+
+.top-nav-collapse {
+    background-color: #1C2331;
+}
+
+
+/* Adding color to the Navbar on mobile */
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #1C2331;
+    }
+}
+
+.fa {
+    color: white;
+    font-size: 30px;
+    margin: 5px 2px;
+    border-radius: 50%;
+    padding: 5px
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+label {
+    color: white
+}

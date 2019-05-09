@@ -1,0 +1,9 @@
+.imgMainC {
+    box-shadow: 8px 8px 16px -3px rgba(46, 43, 46, 1);
+}
+
+.imgC {
+    box-shadow: 4px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 50%;
+    margin: 10px;
+}

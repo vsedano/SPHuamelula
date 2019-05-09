@@ -1,0 +1,55 @@
+.container-fluid {
+    padding: 110px 25px 40px;
+}
+
+@media only screen and (max-width: 768px) {
+    .container-fluid {
+        padding: 60px 25px 40px;
+    }
+}
+
+.divP {
+    width: 100%;
+    margin: 10px;
+    background-color: #a8a2a2;
+}
+
+.namePlace {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.header {
+    color: mediumturquoise;
+    animation-name: parpadeo;
+    animation-duration: 1.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+h6 {
+    color: gray;
+}
+
+@keyframes parpadeo {
+    0% {
+        opacity: 1.0;
+    }
+    50% {
+        opacity: 0.0;
+    }
+    100% {
+        opacity: 1.0;
+    }
+}
+
+.subheader {
+    font-style: oblique;
+    color: darkgray;
+}
+
+.namePlace {
+    text-align: center;
+    padding: 10px;
+}
