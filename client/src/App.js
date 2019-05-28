@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import './App.css';
 import Nav from './components/Nav/Nav'
 import MainVideo from './components/MainVideo/MainVideo'
-import CarouselMain from './components/Carousel/Carousel'
 import Cultura from './components/Cultura/Cultura'
 import Places from './components/Places/Places'
 import Contact from './components/Contact/Contact'
